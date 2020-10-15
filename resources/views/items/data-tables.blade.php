@@ -445,10 +445,6 @@
 <script src="{{ asset('admin/plugins/datatables/jquery.dataTables.js')}}"></script>
 @endpush
 
-@push('css')
-<script src="{{('admin/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css')}}"></script>
-@endpush
-
 @push('script')
 <script src="{{ asset('admin/plugins/datatables-bs4/js/dataTables.bootstrap4.js')}}"></script>
 <script>
