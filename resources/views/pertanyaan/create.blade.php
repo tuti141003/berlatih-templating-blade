@@ -13,8 +13,8 @@
         <thead>                  
           <tr>
             <th style="width: 3%">#</th>
-            <th  style="width: 38%">Judul</th>
-            <th style="width: 38%">Isi</th>
+            <th  style="width: 36%">Judul</th>
+            <th style="width: 36%">Isi</th>
             <th style="width: 65px">pilihan</th>
           </tr>
         </thead>
